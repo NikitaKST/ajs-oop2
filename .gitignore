@@ -1,5 +1,6 @@
 # Игнорирование папки node_modules
 node_modules/
+dist/
 
 # Игнорирование файлов вебпак и версий зависимостей
 /package-lock.json

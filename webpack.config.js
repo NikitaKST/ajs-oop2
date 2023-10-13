@@ -31,7 +31,6 @@ module.exports = {
       template: './src/index.html', // путь к исходному HTML файлу
       filename: 'index.html', // имя выходного HTML файла
     }),
-    new MiniCssExtractPlugin(),
 ],
   // Другие настройки Webpack...
 };
