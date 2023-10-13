@@ -7,11 +7,11 @@ import './js/swordsman';
 import './js/undead';
 import './js/zombie';
 
-// Импортируем класс Bowman
-import Bowman from './js/bowerman';
+// // Импортируем класс Bowman
+// import Bowman from './js/bowerman';
 
-// Создаем объект на основе класса Bowman
-const bowmanCharacter = new Bowman('Валя');
+// // Создаем объект на основе класса Bowman
+// const bowmanCharacter = new Bowman('Валя');
 
-// Выводим объект в консоль
-console.log(bowmanCharacter);
+// // Выводим объект в консоль
+// console.log(bowmanCharacter);
